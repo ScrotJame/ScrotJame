@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @ScrotJame
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there 👋
 
-<!---
-ScrotJame/ScrotJame is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Software Developer passionate about building mobile applications and interactive digital products.
+
+* 👀 Interested in mobile development, AI applications, game development, and software architecture.
+* 🌱 Currently learning AI integration, system design, and advanced software engineering practices.
+* 💞️ Open to collaborating on mobile apps, open-source projects, and innovative tech products.
+* 📫 Reach me via GitHub discussions or connect with me on LinkedIn.
+* 😄 Pronouns: He/Him
+* ⚡ Fun fact: I enjoy turning ideas into working products and continuously exploring new technologies.
+
+## Tech Interests
+
+* Mobile Development
+* Artificial Intelligence
+* Game Development
+* UI/UX Design
+* Software Architecture
+* Automation & Productivity Tools
+
+"Keep building, keep learning."
