@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="./assets/miku-banner.png" alt="ScrotJame and Hatsune Miku — a turquoise anime coding studio with maps and music" width="100%" />
 
   <h1>Hey, I'm ScrotJame 👋</h1>
 
-  <p><b>Maps in the code. Miku in the mix. 🎧</b></p>
+  <p><b>Maps in the code. Miku in my heart</b></p>
   <p>Geospatial ideas · Developer tooling · Creative experiments</p>
 
   <p>
